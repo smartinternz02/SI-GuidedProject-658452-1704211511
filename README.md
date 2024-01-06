@@ -1,1 +1,3 @@
 Flask Files link: (https://drive.google.com/drive/folders/1mnMt6UOLbA5JIZaTdXdjIKT9ZalWaWMa)https://drive.google.com/drive/folders/1mnMt6UOLbA5JIZaTdXdjIKT9ZalWaWMa
+
+https://keyskill-clms.comprehend.ibm.com/pluginfile.php/139128/mod_tincanlaunch/content/index.html?endpoint=https%3A%2F%2Fcars-us.comprehend.ibm.com%2Fdata%2FxAPI%2F&auth=Basic%20YTVkZjAwN2I5M2RiN2QwOTJiYjk5NGI2NThkMzc4Njc1MjJhMzNmODo4NTQ0ZDE3OGE3MTJmOGYwMjc3YTcxNWQzMTM4OGZmY2RjYmYzMTU0&actor=%7B%22objectType%22%3A%22Agent%22%2C%22name%22%3A%22Rajesh%20Thakur%22%2C%22mbox%22%3A%22mailto%3Arajesh.thakur%40miet.ac.in%22%7D&registration=ac426dc1-0556-4b22-9c57-5adb508c24b6&activity_id=http%3A%2F%2FAI-INT-2022-RISER2#/lessons/hviLH_wUj0wfLQBKUUKUN3a6cwRrY3YZ
